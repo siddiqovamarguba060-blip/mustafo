@@ -1,0 +1,6 @@
+{
+  "name": "USTOZ AI",
+  "description": "O'zbekiston o'qituvchilari uchun sun'iy intellekt asosida zamonaviy dars ishlanmasi (konspekt) yaratish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
